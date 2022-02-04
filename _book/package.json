@@ -1,0 +1,12 @@
+{
+  "name": "stmn-engineering-handbook",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "devDependencies": {
+    "honkit": "^3.7.1"
+  }
+}
